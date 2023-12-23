@@ -10,7 +10,7 @@ https://chat.openai.com/g/g-aIHfbZKgq-ai-zu-qiu-zhu-shou
 
 ## Prompt 学习资料
 * OpenAI ： https://platform.openai.com/docs/guides/prompt-engineering
-* 中文翻译： https://baoyu.io/translations/openai/openai-prompt-engineering-guides#tactic-specify-the-steps-required-to-complete-a-task
+* 中文翻译： https://baoyu.io/translations/openai/openai-prompt-engineering-guides
 
 ## 元数据获取，大数据计算后的实时赔率
 稍安勿躁，这就更新
