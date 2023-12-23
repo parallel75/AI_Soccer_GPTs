@@ -21,7 +21,7 @@ https://chat.openai.com/g/g-aIHfbZKgq-ai-zu-qiu-zhu-shou
 
 ## 视频讲解
 * B站       https://www.bilibili.com/video/BV1nC4y1D7o9/
-* youtube   
+* youtube   https://youtu.be/-P3COtN5yZ8
 
 ## 小小声明
 ### 请大家务必远离赌博，合理合法的使用项目中的数据。本项目的目的只是数据上的验证和对 AI 在不同领域实践的探索，不涉及任何指导意见。
