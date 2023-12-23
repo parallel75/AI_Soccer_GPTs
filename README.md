@@ -20,7 +20,7 @@ https://chat.openai.com/g/g-aIHfbZKgq-ai-zu-qiu-zhu-shou
 稍安勿躁，这就更新
 
 ## 视频讲解
-* B站       
+* B站       https://www.bilibili.com/video/BV1nC4y1D7o9/
 * youtube   
 
 ## 小小声明
